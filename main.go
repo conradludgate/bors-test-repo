@@ -10,4 +10,6 @@ func main() {
 	bifurcate()
 
 	fmt.Println("hello")
+
+	bifurcate()
 }
