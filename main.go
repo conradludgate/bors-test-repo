@@ -12,4 +12,6 @@ func main() {
 	bifurcate()
 
 	fmt.Println("hello world")
+
+	bifurcateCrab()
 }
