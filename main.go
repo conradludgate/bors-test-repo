@@ -2,12 +2,12 @@ package main
 
 import "fmt"
 
-func bifurcateCrab() {
-	fmt.Println("bifurcateCrab called")
+func bifurcate() {
+	fmt.Println("bifurcate called")
 }
 
 func main() {
-	bifurcateCrab()
+	bifurcate()
 
 	fmt.Println("hello world")
 }
