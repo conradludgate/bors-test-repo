@@ -1,1 +1,5 @@
 status = ["build"]
+use_squash_merge = true
+delete_merged_branches = true
+# required_approvals = 2 # don't have this many people in this repo
+block_labels = ["wip"]
