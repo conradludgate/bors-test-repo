@@ -9,5 +9,5 @@ func bifurcateCrab() {
 func main() {
 	bifurcateCrab()
 
-	fmt.Println("hello")
+	fmt.Println("hello world")
 }
