@@ -9,5 +9,5 @@ func bifurcate() {
 func main() {
 	bifurcate()
 
-	fmt.Println("hello")
+	fmt.Println("hello world")
 }
