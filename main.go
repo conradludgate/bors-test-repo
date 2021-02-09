@@ -5,7 +5,7 @@ import (
 )
 
 func bifurcate() {
-	fmt.Println("bifurcate called")
+	fmt.Println("testing automerge")
 }
 
 func main() {
